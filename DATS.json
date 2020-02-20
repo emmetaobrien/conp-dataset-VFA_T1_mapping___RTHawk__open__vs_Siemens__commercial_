@@ -1,0 +1,77 @@
+{
+    "title": "VFA T1 mapping | RTHawk (open) vs Siemens (commercial)",
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3675441",
+        "identifierSource": "DOI"
+    },
+    "creators": [
+        {
+            "name": "Agah Karakuzu"
+        }
+    ],
+    "description": "<p>The preliminary variable flip angle (VFA) T1 mapping data acquired using:<br>\n1.&nbsp;&nbsp;Fully-open (<a href=\"https://bit.ly/qMRPullseq\">https://bit.ly/qMRPullseq</a>) 3D spoiled gradient-echo based RTHawk application<br>\n2.&nbsp; Siemens stock sequence 3D FLASH&nbsp;</p>\n\n<p>The analysis (fitting and comparison) can be executed online: <a href=\"http://bit.ly/qmr_vfat1\">http://bit.ly/qmr_vfat1</a>&nbsp;</p>\n\n<p>GitHub repository for the code:&nbsp;<a href=\"https://github.com/agahkarakuzu/ismrm20\">https://github.com/agahkarakuzu/ismrm20</a></p>",
+    "version": "v1.0",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "quantitative MRI"
+        },
+        {
+            "value": "T1 mapping"
+        },
+        {
+            "value": "VFA"
+        },
+        {
+            "value": "variable flip angle"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "zip",
+                "gif"
+            ],
+            "size": 7831367,
+            "unit": {
+                "value": "B"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/3675442"
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "3"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "imaging"
+        }
+    ]
+}
